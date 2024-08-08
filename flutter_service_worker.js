@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "b522882595bdb592925992c0be119e04",
+const RESOURCES = {"flutter_bootstrap.js": "1831e6fb3c5d285be678989031acd314",
 "version.json": "696e9d4932b7ca674bd60f27894c8396",
 "index.html": "78100c7c7fe52b14f337cac6948bd816",
 "/": "78100c7c7fe52b14f337cac6948bd816",
@@ -11,7 +11,7 @@ const RESOURCES = {"flutter_bootstrap.js": "b522882595bdb592925992c0be119e04",
 "main.dart.js": "7e2d794d012ec3030bf26bfcab0b2a81",
 "flutter.js": "f31737fb005cd3a3c6bd9355efd33061",
 "agora_rtm/agora-rtm-sdk-1.5.1.js": "4c5bdc77e0e213644323869a15de0f89",
-"agora_rtm/rtm_manager.js": "cbfc6f1ef2fe1c176951ed2a57c43a53",
+"agora_rtm/rtm_manager.js": "e77065f608bda1a5b39bef03b82d72a1",
 "agora_rtc/agora_rtc_manager.js": "b4dd2426ceeca6582c472a60c03d695f",
 "agora_rtc/AgoraRTC_N-4.21.0.js": "31b05031d522e8437459de358b4e8c89",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
